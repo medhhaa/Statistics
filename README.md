@@ -34,9 +34,3 @@ This repository is a collection of Jupyter notebooks and handwritten notes cover
 - Visual Data Exploration
 
 ---
-
-## 📌 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/medhhaa/Statistics.git
